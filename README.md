@@ -5,42 +5,30 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Tomás**, actualmente ocupo un puesto de **Analista en Seguridad y Soporte de Accesos**, soy estudiante avanzado de **Análisis de Sistemas**. 
-Me encuentro en capacitación constante en **Java**, cubriendo tecnologías como: **Spring Boot**, **Maven**, **bases de datos**, **Docker**, **MySQL**, y **PostgreSQL**.
+Soy **Tomás**, actualmente ocupo un puesto de **Soporte de Aplicaciones para Clara-AR**, soy estudiante avanzado de **Análisis de Sistemas**. 
+Me encuentro en capacitación constante, para poder desempeñarme en **Data Engineering**, cubriendo tecnologías como: **Airflow**, **Python**, **bases de datos SQL-NoSQL**, **Docker**, **Kubernetes**, **PostgreSQL**, agregando prácticas y conocimientos en la disciplina.
 
 ## 🚀 Objetivo
 
-Mi objetivo es convertirme en un **desarrollador backend en Java**. Para lograrlo, me he propuesto realizar un proyecto por semana, lo que me permite mejorar mis habilidades y adquirir nuevos conocimientos de manera continua.
+Mi objetivo es convertirme en un **Data Engineer**, me considero un apasionado por los datos. Para lograrlo, me he propuesto realizar un proyecto por semana, algo complicado y ambicioso, pero lo que me permite es, mejorar mis habilidades y adquirir nuevos conocimientos de manera continua.
 
 ## 🛠️ Tecnologías y Herramientas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![TablePlus](https://img.shields.io/badge/TablePlus-F47728?style=flat-square&logo=tableplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🌟 Proyectos Destacados
 
-### 📌 Proyecto de Login Seguro
-- **Descripción:** Sistema de login y registro de usuarios con verificación mediante JWT.
-- **Tecnologías:** Java, Spring Boot, Spring Security, Gradle, MySQL, PhpMyAdmin, Postman.
-- **Detalles:** Configuración de CORS, rutas privadas y públicas, y pruebas exhaustivas con Postman.
-
-### 📌 CRUD Básico
-- **Descripción:** Realizamos un CRUD básico en Java mediante una API Rest utilizando Maven, Spring Boot, Hibernate y PostgreSQL.
-- **Tecnologías:** Java, Spring Boot, Hibernate, PostgreSQL, Maven, Postman, TablePlus.
-- **Detalles:** Pruebas realizadas con Postman y gestión de la base de datos con TablePlus.
-
-## 🎯 Próximos Proyectos
-
-Estoy muy entusiasmado por comenzar mi próximo proyecto, en el cual planeo desarrollar un CRUD completo integrando un frontend con **Angular**.
+## 🌟 En la sección Repositorios, podrán revisar mis proyectos realizados hasta el momento.
 
 ## 📫 Contacto
 
